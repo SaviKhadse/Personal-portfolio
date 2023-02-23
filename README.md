@@ -4,11 +4,34 @@ Designed user Interface using modern JavaScript, HTML5, CSS3 and Bootstrap. Buil
 
 Technology Stack: HTML, CSS, JavaScript 
 
+Project setup
+If you do need to set the project up locally yourself, feel free to follow these instructions:
+
+System Requirements
+
+An Operating System
+A Web Browser
+
+git clone git@github.com:SaviKhadse/Personal-portfolio.git
+cd Personal-portfolio
+
+Executing Project
+
+To run from CLI:
+open index.html
+  
+To run from IDE:
+open index.html file and run it OR
+Right click and select open in Live Server on index.html file
+  
+Done!
+
+
 
 
 # Personal-portfolio
 
-My first frontend project created to practice where I have built this personal portfolio using HTML CSS and JS. I have used so features like animation, hover on, media query etc.
+My master's academic frontend project created to practice HTML, CSS3 and JavaScript. This project can run on mobile, Tablet and Laptop perfectly according toscreen width for that media-screen property from CSS has been used. I have used so features like animation, hover on, media query etc.
 
 <img width="1406" alt="image" src="https://user-images.githubusercontent.com/108047252/217473785-2e5b965e-6d80-44bb-a5e0-a61380ac03e3.png">
 
