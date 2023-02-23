@@ -17,7 +17,7 @@ git clone git@github.com:SaviKhadse/Personal-portfolio.git
 
 cd Personal-portfolio
 
-Executing Project
+Executing Project 
 
 To run from CLI:
 
