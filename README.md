@@ -1,3 +1,9 @@
+Personal Portfolio Website 
+
+Designed user Interface using modern JavaScript, HTML5, CSS3 and Bootstrap. Built and customized Web components to craft dynamic user-interactions. Designed embedded tables, Photo gallery using grid & Flexbox, Animations, and 3D transformations. Technology Stack: HTML, CSS, JavaScript 
+
+
+
 # Personal-portfolio
 
 My first frontend project created to practice where I have built this personal portfolio using HTML CSS and JS. I have used so features like animation, hover on, media query etc.
