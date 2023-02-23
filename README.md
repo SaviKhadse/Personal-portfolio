@@ -10,14 +10,17 @@ If you do need to set the project up locally yourself, feel free to follow these
 System Requirements
 
 An Operating System
+
 A Web Browser
 
 git clone git@github.com:SaviKhadse/Personal-portfolio.git
+
 cd Personal-portfolio
 
 Executing Project
 
 To run from CLI:
+
 open index.html
   
 To run from IDE:
